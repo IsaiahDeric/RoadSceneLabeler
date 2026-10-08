@@ -1,0 +1,6 @@
+image,label,x,y,width,height
+steet01.jpg,car,100,200,300,150
+street01.jpg,car,100,200,300,150
+street01.jpg,pedestrain,300,200,150,50
+street01.jpg,bicycle,300,200,200,150
+street01.jpg,bicycle,175,200,90,100

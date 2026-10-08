@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RoadSceneLabeler.vcxproj" Id="5c7eb3df-4cf8-4210-beaa-2b2f377f9308" />
+</Solution>
